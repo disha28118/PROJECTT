@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import plotly.express as px
 import streamlit as st
+import matplotlib_inline
 
 @st.cache_data
 def load_data():
