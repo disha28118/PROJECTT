@@ -1,7 +1,7 @@
-# Immigration Data Analysis
+# Placement Data Analysis
 
 ## Project Summary
-The goal of this project is to analyze the United Nations dataset on international immigration. The dataset contains information on the number of immigrants leaving countries per year(1980-2013)
+The goal of this project is to analyze the student placement data.
 
 ## Tech Stack
 - python
@@ -13,7 +13,7 @@ The goal of this project is to analyze the United Nations dataset on internation
 ## Installation
 1. Clone the repository
 ```bash
-git clone <repo-url>
+git clone <>
 ```
 
 2. Install the dependencies
@@ -23,8 +23,12 @@ pip install - requirements.txt
 
 3. Run the streamlit app
 ```bash
-streamlit run dashboard.py
+streamlit run data.py
 ```
-
 ### Screenshots
-<img src="img/1.png">
+<img src=![alt text](image.png)>
+<![alt text](image-1.png)>
+<![alt text](image-2.png)>
+<![alt text](image-3.png)>
+<![alt text](image-4.png)>
+<![alt text](image-5.png)>
